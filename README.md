@@ -1,4 +1,3 @@
-# GS---Hardware
 Arthur Galvão Alves rm554462 | Felipe Braunstein e Silva rm554483 | Jefferson Junior Alvarez rm558497
 
 Projeto de Controle de Nível de Água com Motor de Passo e Sensor Ultrassônico
